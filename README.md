@@ -1,6 +1,6 @@
-### sl2
+## sl2
 
-The original `sl` command with some of my own personal changes.
+> The original `sl` command with some of my own personal changes.
 
 **Available Flags:**<br/>
 [q/Q] - The locomotive can move faster<br/>
