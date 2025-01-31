@@ -11,6 +11,6 @@ OR
 ```sh
 ./sl -h
 
-// alternatively:
-// ./sl -H
+# alternatively:
+# ./sl -H
 ```
